@@ -1,0 +1,22 @@
+{
+  "item.money.cash_1s": "1s cash",
+  "item.money.cash_2s": "2s cash",
+  "item.money.cash_5s": "5s cash",
+  "item.money.cash_10s": "10s cash",
+  "item.money.cash_20s": "20s cash",
+  "item.money.cash_50s": "50s cash",
+  "item.money.cash_100s": "100s cash",
+  "item.money.cash_200s": "200s cash",
+  "item.money.cash_500s": "500s cash",
+  "item.money.cash_1000s": "1000s cash",
+  "item.money.coin_1s": "1s coin",
+  "item.money.coin_1ss": "1ss coin",
+  "item.money.coin_2s": "2s coin",
+  "item.money.coin_2ss": "2ss coin",
+  "item.money.coin_5s": "5s coin",
+  "item.money.coin_5ss": "5ss coin",
+  "item.money.coinfood": "coinfood",
+  "item.money.atm": "ATM",
+  "block.money.atm": "ATM",
+  "itemGroup.money.money": "Money"
+}
